@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
     std::cout << "My test code will go here!\n";
+
+    for (int i = 1; i < 10; i++) {
+        cout << i << endl;
+
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
